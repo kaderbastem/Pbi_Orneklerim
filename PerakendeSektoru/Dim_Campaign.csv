@@ -1,0 +1,12 @@
+﻿Campaign_ID,Campaign_Name,Start_Date,End_Date,Target_Category,Planned_Discount
+1,Yılbaşı Fırsatları,2025-01-01,2025-01-15,Genel,0.1
+2,Bahar Kampanyası,2025-03-15,2025-04-15,Giyim,0.12
+3,Yaz Başlangıcı,2025-06-01,2025-06-30,Ev & Yaşam,0.14
+4,Okula Dönüş,2025-08-15,2025-09-15,Kırtasiye,0.18
+5,Sonbahar Teknoloji,2025-10-01,2025-10-31,Teknoloji,0.13
+6,11.11 Büyük İndirim,2025-11-01,2025-11-15,Teknoloji,0.2
+7,Efsane Kasım,2025-11-16,2025-11-30,Genel,0.22
+8,Yıl Sonu Fırsatları,2025-12-01,2025-12-31,Genel,0.16
+9,Sevgililer Günü,2026-02-01,2026-02-14,Kişisel Bakım,0.15
+10,Bahar Yenileme,2026-03-15,2026-04-15,Ev & Yaşam,0.12
+11,Yaz Kampanyası,2026-06-01,2026-06-30,Giyim,0.14

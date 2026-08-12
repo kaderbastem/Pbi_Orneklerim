@@ -1,0 +1,1201 @@
+﻿Customer_ID,Gender,Age_Group,Customer_Segment
+10001,Kadın,45-54,Bireysel
+10002,Kadın,18-24,Premium
+10003,Kadın,18-24,Sadık Müşteri
+10004,Kadın,25-34,Sadık Müşteri
+10005,Erkek,35-44,Bireysel
+10006,Erkek,45-54,Bireysel
+10007,Kadın,35-44,Bireysel
+10008,Kadın,35-44,Sadık Müşteri
+10009,Erkek,25-34,Sadık Müşteri
+10010,Kadın,55+,Sadık Müşteri
+10011,Erkek,25-34,Bireysel
+10012,Kadın,35-44,Premium
+10013,Kadın,25-34,Sadık Müşteri
+10014,Kadın,45-54,Bireysel
+10015,Kadın,35-44,Bireysel
+10016,Erkek,25-34,Bireysel
+10017,Kadın,18-24,Bireysel
+10018,Kadın,35-44,Bireysel
+10019,Kadın,35-44,Bireysel
+10020,Kadın,25-34,Bireysel
+10021,Kadın,55+,Sadık Müşteri
+10022,Kadın,25-34,Bireysel
+10023,Erkek,35-44,Bireysel
+10024,Kadın,55+,Bireysel
+10025,Kadın,25-34,Bireysel
+10026,Erkek,35-44,Sadık Müşteri
+10027,Kadın,25-34,Bireysel
+10028,Erkek,25-34,Bireysel
+10029,Kadın,55+,Sadık Müşteri
+10030,Erkek,25-34,Bireysel
+10031,Erkek,55+,Sadık Müşteri
+10032,Erkek,25-34,Bireysel
+10033,Erkek,25-34,Bireysel
+10034,Kadın,18-24,Premium
+10035,Erkek,35-44,Premium
+10036,Kadın,25-34,Sadık Müşteri
+10037,Kadın,45-54,Bireysel
+10038,Kadın,35-44,Bireysel
+10039,Erkek,55+,Sadık Müşteri
+10040,Kadın,25-34,Bireysel
+10041,Erkek,45-54,Bireysel
+10042,Erkek,45-54,Bireysel
+10043,Erkek,45-54,Bireysel
+10044,Erkek,45-54,Premium
+10045,Kadın,45-54,Bireysel
+10046,Kadın,35-44,Sadık Müşteri
+10047,Kadın,25-34,Bireysel
+10048,Kadın,18-24,Bireysel
+10049,Kadın,55+,Bireysel
+10050,Kadın,35-44,Bireysel
+10051,Kadın,45-54,Premium
+10052,Erkek,35-44,Sadık Müşteri
+10053,Erkek,18-24,Premium
+10054,Kadın,25-34,Premium
+10055,Erkek,35-44,Sadık Müşteri
+10056,Kadın,35-44,Premium
+10057,Kadın,25-34,Bireysel
+10058,Erkek,35-44,Bireysel
+10059,Kadın,18-24,Bireysel
+10060,Kadın,35-44,Bireysel
+10061,Erkek,25-34,Bireysel
+10062,Erkek,45-54,Bireysel
+10063,Erkek,25-34,Sadık Müşteri
+10064,Erkek,35-44,Bireysel
+10065,Erkek,18-24,Bireysel
+10066,Kadın,18-24,Bireysel
+10067,Kadın,25-34,Bireysel
+10068,Kadın,35-44,Sadık Müşteri
+10069,Kadın,35-44,Bireysel
+10070,Erkek,25-34,Premium
+10071,Kadın,35-44,Sadık Müşteri
+10072,Erkek,45-54,Bireysel
+10073,Erkek,45-54,Bireysel
+10074,Erkek,18-24,Sadık Müşteri
+10075,Erkek,35-44,Sadık Müşteri
+10076,Erkek,18-24,Sadık Müşteri
+10077,Kadın,25-34,Sadık Müşteri
+10078,Erkek,55+,Bireysel
+10079,Kadın,25-34,Bireysel
+10080,Erkek,35-44,Bireysel
+10081,Kadın,35-44,Sadık Müşteri
+10082,Erkek,45-54,Sadık Müşteri
+10083,Erkek,35-44,Bireysel
+10084,Kadın,18-24,Bireysel
+10085,Kadın,25-34,Bireysel
+10086,Erkek,35-44,Bireysel
+10087,Kadın,18-24,Sadık Müşteri
+10088,Erkek,25-34,Sadık Müşteri
+10089,Erkek,18-24,Premium
+10090,Kadın,18-24,Bireysel
+10091,Kadın,25-34,Bireysel
+10092,Kadın,25-34,Sadık Müşteri
+10093,Erkek,35-44,Sadık Müşteri
+10094,Kadın,35-44,Bireysel
+10095,Kadın,45-54,Sadık Müşteri
+10096,Kadın,25-34,Bireysel
+10097,Erkek,25-34,Bireysel
+10098,Erkek,18-24,Bireysel
+10099,Erkek,35-44,Bireysel
+10100,Kadın,45-54,Bireysel
+10101,Erkek,18-24,Bireysel
+10102,Erkek,55+,Sadık Müşteri
+10103,Erkek,18-24,Bireysel
+10104,Erkek,35-44,Bireysel
+10105,Kadın,45-54,Premium
+10106,Kadın,45-54,Bireysel
+10107,Erkek,45-54,Bireysel
+10108,Kadın,45-54,Sadık Müşteri
+10109,Erkek,25-34,Bireysel
+10110,Erkek,45-54,Bireysel
+10111,Kadın,18-24,Bireysel
+10112,Erkek,55+,Bireysel
+10113,Kadın,35-44,Premium
+10114,Kadın,45-54,Sadık Müşteri
+10115,Erkek,35-44,Sadık Müşteri
+10116,Erkek,35-44,Sadık Müşteri
+10117,Kadın,35-44,Sadık Müşteri
+10118,Kadın,45-54,Bireysel
+10119,Erkek,18-24,Premium
+10120,Erkek,18-24,Bireysel
+10121,Erkek,25-34,Sadık Müşteri
+10122,Kadın,25-34,Premium
+10123,Kadın,45-54,Bireysel
+10124,Kadın,25-34,Bireysel
+10125,Erkek,55+,Bireysel
+10126,Kadın,25-34,Bireysel
+10127,Kadın,25-34,Sadık Müşteri
+10128,Erkek,45-54,Sadık Müşteri
+10129,Kadın,35-44,Bireysel
+10130,Erkek,35-44,Bireysel
+10131,Erkek,35-44,Bireysel
+10132,Erkek,45-54,Bireysel
+10133,Kadın,25-34,Bireysel
+10134,Kadın,55+,Bireysel
+10135,Erkek,55+,Premium
+10136,Erkek,35-44,Bireysel
+10137,Erkek,25-34,Bireysel
+10138,Kadın,35-44,Sadık Müşteri
+10139,Erkek,18-24,Bireysel
+10140,Erkek,18-24,Premium
+10141,Erkek,25-34,Premium
+10142,Erkek,35-44,Bireysel
+10143,Erkek,45-54,Bireysel
+10144,Erkek,45-54,Bireysel
+10145,Kadın,45-54,Bireysel
+10146,Kadın,25-34,Bireysel
+10147,Kadın,25-34,Sadık Müşteri
+10148,Kadın,25-34,Bireysel
+10149,Kadın,55+,Bireysel
+10150,Kadın,18-24,Bireysel
+10151,Kadın,45-54,Premium
+10152,Kadın,35-44,Bireysel
+10153,Erkek,35-44,Bireysel
+10154,Erkek,45-54,Bireysel
+10155,Kadın,35-44,Premium
+10156,Erkek,45-54,Bireysel
+10157,Erkek,55+,Sadık Müşteri
+10158,Kadın,25-34,Sadık Müşteri
+10159,Kadın,25-34,Bireysel
+10160,Kadın,35-44,Sadık Müşteri
+10161,Erkek,55+,Bireysel
+10162,Erkek,25-34,Sadık Müşteri
+10163,Kadın,35-44,Sadık Müşteri
+10164,Kadın,35-44,Bireysel
+10165,Kadın,45-54,Bireysel
+10166,Kadın,25-34,Sadık Müşteri
+10167,Kadın,45-54,Bireysel
+10168,Kadın,55+,Bireysel
+10169,Erkek,25-34,Bireysel
+10170,Erkek,25-34,Sadık Müşteri
+10171,Kadın,55+,Sadık Müşteri
+10172,Erkek,25-34,Bireysel
+10173,Kadın,45-54,Bireysel
+10174,Kadın,35-44,Bireysel
+10175,Kadın,25-34,Sadık Müşteri
+10176,Erkek,45-54,Bireysel
+10177,Erkek,35-44,Sadık Müşteri
+10178,Erkek,35-44,Bireysel
+10179,Kadın,25-34,Premium
+10180,Erkek,35-44,Bireysel
+10181,Kadın,25-34,Bireysel
+10182,Erkek,25-34,Bireysel
+10183,Kadın,55+,Premium
+10184,Kadın,25-34,Sadık Müşteri
+10185,Erkek,35-44,Bireysel
+10186,Erkek,25-34,Sadık Müşteri
+10187,Kadın,45-54,Sadık Müşteri
+10188,Erkek,25-34,Bireysel
+10189,Kadın,55+,Bireysel
+10190,Erkek,35-44,Bireysel
+10191,Erkek,25-34,Bireysel
+10192,Erkek,18-24,Premium
+10193,Erkek,25-34,Premium
+10194,Erkek,35-44,Sadık Müşteri
+10195,Kadın,25-34,Bireysel
+10196,Erkek,45-54,Bireysel
+10197,Kadın,35-44,Sadık Müşteri
+10198,Kadın,25-34,Premium
+10199,Kadın,35-44,Premium
+10200,Kadın,45-54,Sadık Müşteri
+10201,Erkek,25-34,Sadık Müşteri
+10202,Kadın,25-34,Bireysel
+10203,Erkek,18-24,Bireysel
+10204,Kadın,45-54,Premium
+10205,Kadın,35-44,Sadık Müşteri
+10206,Kadın,35-44,Bireysel
+10207,Kadın,45-54,Bireysel
+10208,Kadın,45-54,Sadık Müşteri
+10209,Erkek,35-44,Bireysel
+10210,Kadın,45-54,Bireysel
+10211,Erkek,25-34,Bireysel
+10212,Kadın,18-24,Sadık Müşteri
+10213,Kadın,25-34,Sadık Müşteri
+10214,Erkek,18-24,Bireysel
+10215,Kadın,35-44,Sadık Müşteri
+10216,Kadın,55+,Bireysel
+10217,Kadın,18-24,Bireysel
+10218,Kadın,25-34,Sadık Müşteri
+10219,Erkek,35-44,Sadık Müşteri
+10220,Kadın,55+,Sadık Müşteri
+10221,Erkek,25-34,Sadık Müşteri
+10222,Erkek,35-44,Bireysel
+10223,Kadın,18-24,Bireysel
+10224,Erkek,25-34,Bireysel
+10225,Kadın,55+,Bireysel
+10226,Erkek,55+,Bireysel
+10227,Kadın,18-24,Premium
+10228,Erkek,55+,Bireysel
+10229,Kadın,35-44,Premium
+10230,Kadın,45-54,Sadık Müşteri
+10231,Erkek,35-44,Sadık Müşteri
+10232,Erkek,35-44,Bireysel
+10233,Kadın,35-44,Bireysel
+10234,Kadın,35-44,Bireysel
+10235,Erkek,25-34,Bireysel
+10236,Erkek,18-24,Sadık Müşteri
+10237,Erkek,25-34,Bireysel
+10238,Erkek,45-54,Bireysel
+10239,Erkek,25-34,Sadık Müşteri
+10240,Erkek,35-44,Bireysel
+10241,Kadın,55+,Premium
+10242,Kadın,18-24,Premium
+10243,Erkek,35-44,Premium
+10244,Erkek,35-44,Bireysel
+10245,Kadın,45-54,Bireysel
+10246,Kadın,25-34,Premium
+10247,Erkek,35-44,Bireysel
+10248,Kadın,45-54,Premium
+10249,Kadın,55+,Premium
+10250,Kadın,35-44,Sadık Müşteri
+10251,Kadın,35-44,Bireysel
+10252,Kadın,35-44,Bireysel
+10253,Kadın,45-54,Sadık Müşteri
+10254,Kadın,35-44,Bireysel
+10255,Erkek,18-24,Bireysel
+10256,Kadın,55+,Bireysel
+10257,Erkek,35-44,Premium
+10258,Erkek,35-44,Sadık Müşteri
+10259,Kadın,25-34,Bireysel
+10260,Erkek,35-44,Bireysel
+10261,Kadın,25-34,Sadık Müşteri
+10262,Erkek,35-44,Premium
+10263,Kadın,18-24,Bireysel
+10264,Erkek,35-44,Bireysel
+10265,Erkek,55+,Sadık Müşteri
+10266,Kadın,18-24,Sadık Müşteri
+10267,Kadın,55+,Sadık Müşteri
+10268,Erkek,25-34,Sadık Müşteri
+10269,Erkek,45-54,Bireysel
+10270,Kadın,45-54,Bireysel
+10271,Erkek,35-44,Sadık Müşteri
+10272,Kadın,45-54,Sadık Müşteri
+10273,Erkek,45-54,Sadık Müşteri
+10274,Kadın,25-34,Premium
+10275,Erkek,25-34,Bireysel
+10276,Kadın,35-44,Bireysel
+10277,Kadın,45-54,Sadık Müşteri
+10278,Kadın,45-54,Sadık Müşteri
+10279,Kadın,45-54,Sadık Müşteri
+10280,Kadın,35-44,Sadık Müşteri
+10281,Kadın,45-54,Premium
+10282,Erkek,25-34,Bireysel
+10283,Kadın,35-44,Bireysel
+10284,Kadın,18-24,Bireysel
+10285,Kadın,25-34,Bireysel
+10286,Kadın,25-34,Bireysel
+10287,Kadın,25-34,Bireysel
+10288,Kadın,35-44,Bireysel
+10289,Kadın,25-34,Bireysel
+10290,Kadın,35-44,Sadık Müşteri
+10291,Erkek,25-34,Bireysel
+10292,Erkek,25-34,Bireysel
+10293,Kadın,25-34,Sadık Müşteri
+10294,Kadın,18-24,Bireysel
+10295,Erkek,35-44,Bireysel
+10296,Kadın,35-44,Bireysel
+10297,Erkek,35-44,Sadık Müşteri
+10298,Kadın,35-44,Bireysel
+10299,Erkek,25-34,Sadık Müşteri
+10300,Erkek,45-54,Bireysel
+10301,Erkek,35-44,Bireysel
+10302,Erkek,35-44,Bireysel
+10303,Kadın,18-24,Bireysel
+10304,Kadın,25-34,Sadık Müşteri
+10305,Erkek,25-34,Sadık Müşteri
+10306,Erkek,25-34,Premium
+10307,Kadın,35-44,Bireysel
+10308,Kadın,35-44,Bireysel
+10309,Kadın,35-44,Sadık Müşteri
+10310,Kadın,45-54,Bireysel
+10311,Erkek,45-54,Bireysel
+10312,Kadın,45-54,Bireysel
+10313,Kadın,55+,Bireysel
+10314,Kadın,18-24,Premium
+10315,Kadın,25-34,Sadık Müşteri
+10316,Kadın,18-24,Sadık Müşteri
+10317,Erkek,35-44,Bireysel
+10318,Erkek,55+,Bireysel
+10319,Erkek,25-34,Bireysel
+10320,Kadın,55+,Bireysel
+10321,Erkek,18-24,Bireysel
+10322,Erkek,55+,Sadık Müşteri
+10323,Erkek,25-34,Sadık Müşteri
+10324,Kadın,18-24,Bireysel
+10325,Kadın,35-44,Premium
+10326,Kadın,25-34,Sadık Müşteri
+10327,Kadın,25-34,Bireysel
+10328,Kadın,25-34,Sadık Müşteri
+10329,Kadın,45-54,Bireysel
+10330,Kadın,35-44,Bireysel
+10331,Erkek,25-34,Bireysel
+10332,Kadın,35-44,Sadık Müşteri
+10333,Kadın,45-54,Bireysel
+10334,Erkek,25-34,Bireysel
+10335,Erkek,25-34,Bireysel
+10336,Erkek,25-34,Bireysel
+10337,Erkek,25-34,Sadık Müşteri
+10338,Erkek,35-44,Sadık Müşteri
+10339,Erkek,25-34,Bireysel
+10340,Kadın,35-44,Bireysel
+10341,Kadın,45-54,Bireysel
+10342,Kadın,18-24,Bireysel
+10343,Kadın,35-44,Bireysel
+10344,Kadın,25-34,Bireysel
+10345,Erkek,55+,Bireysel
+10346,Erkek,35-44,Sadık Müşteri
+10347,Erkek,45-54,Sadık Müşteri
+10348,Kadın,35-44,Bireysel
+10349,Erkek,18-24,Bireysel
+10350,Erkek,35-44,Sadık Müşteri
+10351,Kadın,55+,Bireysel
+10352,Erkek,35-44,Sadık Müşteri
+10353,Kadın,45-54,Sadık Müşteri
+10354,Kadın,55+,Bireysel
+10355,Erkek,25-34,Bireysel
+10356,Kadın,25-34,Sadık Müşteri
+10357,Kadın,35-44,Bireysel
+10358,Erkek,25-34,Sadık Müşteri
+10359,Erkek,45-54,Premium
+10360,Kadın,55+,Bireysel
+10361,Kadın,25-34,Bireysel
+10362,Kadın,25-34,Sadık Müşteri
+10363,Erkek,45-54,Bireysel
+10364,Kadın,25-34,Bireysel
+10365,Kadın,45-54,Premium
+10366,Erkek,25-34,Bireysel
+10367,Erkek,35-44,Premium
+10368,Kadın,18-24,Premium
+10369,Kadın,35-44,Bireysel
+10370,Erkek,35-44,Bireysel
+10371,Kadın,35-44,Bireysel
+10372,Kadın,25-34,Bireysel
+10373,Erkek,45-54,Bireysel
+10374,Kadın,45-54,Sadık Müşteri
+10375,Erkek,25-34,Bireysel
+10376,Kadın,18-24,Bireysel
+10377,Kadın,18-24,Sadık Müşteri
+10378,Kadın,35-44,Bireysel
+10379,Kadın,35-44,Sadık Müşteri
+10380,Kadın,35-44,Bireysel
+10381,Kadın,25-34,Bireysel
+10382,Erkek,25-34,Sadık Müşteri
+10383,Erkek,35-44,Sadık Müşteri
+10384,Erkek,35-44,Sadık Müşteri
+10385,Erkek,55+,Sadık Müşteri
+10386,Kadın,25-34,Sadık Müşteri
+10387,Erkek,35-44,Bireysel
+10388,Kadın,25-34,Bireysel
+10389,Erkek,25-34,Sadık Müşteri
+10390,Erkek,45-54,Sadık Müşteri
+10391,Erkek,35-44,Premium
+10392,Erkek,55+,Bireysel
+10393,Erkek,25-34,Bireysel
+10394,Kadın,18-24,Sadık Müşteri
+10395,Kadın,45-54,Bireysel
+10396,Erkek,35-44,Premium
+10397,Kadın,25-34,Sadık Müşteri
+10398,Erkek,18-24,Bireysel
+10399,Erkek,18-24,Sadık Müşteri
+10400,Kadın,55+,Sadık Müşteri
+10401,Erkek,25-34,Bireysel
+10402,Erkek,25-34,Premium
+10403,Erkek,25-34,Bireysel
+10404,Erkek,25-34,Sadık Müşteri
+10405,Erkek,18-24,Bireysel
+10406,Erkek,35-44,Premium
+10407,Erkek,18-24,Bireysel
+10408,Kadın,45-54,Bireysel
+10409,Kadın,25-34,Premium
+10410,Erkek,35-44,Bireysel
+10411,Kadın,55+,Bireysel
+10412,Erkek,35-44,Premium
+10413,Erkek,35-44,Premium
+10414,Kadın,25-34,Bireysel
+10415,Erkek,25-34,Sadık Müşteri
+10416,Erkek,35-44,Bireysel
+10417,Kadın,55+,Bireysel
+10418,Kadın,35-44,Bireysel
+10419,Kadın,35-44,Sadık Müşteri
+10420,Kadın,45-54,Sadık Müşteri
+10421,Erkek,35-44,Sadık Müşteri
+10422,Kadın,18-24,Sadık Müşteri
+10423,Erkek,35-44,Bireysel
+10424,Kadın,55+,Bireysel
+10425,Kadın,25-34,Bireysel
+10426,Erkek,35-44,Bireysel
+10427,Erkek,25-34,Bireysel
+10428,Kadın,35-44,Premium
+10429,Kadın,18-24,Bireysel
+10430,Kadın,35-44,Bireysel
+10431,Kadın,45-54,Bireysel
+10432,Erkek,25-34,Sadık Müşteri
+10433,Kadın,35-44,Sadık Müşteri
+10434,Kadın,45-54,Bireysel
+10435,Kadın,55+,Bireysel
+10436,Erkek,25-34,Sadık Müşteri
+10437,Erkek,25-34,Bireysel
+10438,Kadın,25-34,Sadık Müşteri
+10439,Erkek,55+,Sadık Müşteri
+10440,Kadın,55+,Bireysel
+10441,Kadın,35-44,Bireysel
+10442,Erkek,45-54,Premium
+10443,Erkek,35-44,Bireysel
+10444,Erkek,35-44,Bireysel
+10445,Erkek,18-24,Sadık Müşteri
+10446,Kadın,45-54,Premium
+10447,Erkek,25-34,Premium
+10448,Kadın,45-54,Sadık Müşteri
+10449,Erkek,45-54,Bireysel
+10450,Kadın,45-54,Bireysel
+10451,Erkek,18-24,Sadık Müşteri
+10452,Kadın,25-34,Bireysel
+10453,Kadın,25-34,Bireysel
+10454,Erkek,25-34,Premium
+10455,Kadın,18-24,Bireysel
+10456,Kadın,55+,Bireysel
+10457,Kadın,35-44,Bireysel
+10458,Kadın,25-34,Bireysel
+10459,Kadın,25-34,Bireysel
+10460,Kadın,35-44,Bireysel
+10461,Erkek,35-44,Bireysel
+10462,Kadın,35-44,Sadık Müşteri
+10463,Erkek,55+,Sadık Müşteri
+10464,Erkek,35-44,Sadık Müşteri
+10465,Kadın,55+,Premium
+10466,Erkek,45-54,Bireysel
+10467,Kadın,25-34,Bireysel
+10468,Erkek,55+,Sadık Müşteri
+10469,Kadın,18-24,Bireysel
+10470,Kadın,45-54,Premium
+10471,Erkek,25-34,Bireysel
+10472,Erkek,45-54,Premium
+10473,Erkek,45-54,Bireysel
+10474,Kadın,45-54,Premium
+10475,Erkek,45-54,Bireysel
+10476,Kadın,25-34,Premium
+10477,Kadın,18-24,Bireysel
+10478,Kadın,25-34,Bireysel
+10479,Erkek,25-34,Premium
+10480,Kadın,35-44,Bireysel
+10481,Kadın,25-34,Sadık Müşteri
+10482,Erkek,55+,Sadık Müşteri
+10483,Kadın,35-44,Bireysel
+10484,Kadın,45-54,Sadık Müşteri
+10485,Kadın,25-34,Sadık Müşteri
+10486,Erkek,45-54,Premium
+10487,Kadın,55+,Bireysel
+10488,Kadın,35-44,Bireysel
+10489,Erkek,35-44,Premium
+10490,Erkek,45-54,Premium
+10491,Kadın,25-34,Bireysel
+10492,Erkek,35-44,Sadık Müşteri
+10493,Erkek,25-34,Bireysel
+10494,Erkek,25-34,Bireysel
+10495,Kadın,25-34,Bireysel
+10496,Erkek,18-24,Bireysel
+10497,Erkek,18-24,Sadık Müşteri
+10498,Kadın,25-34,Bireysel
+10499,Kadın,55+,Premium
+10500,Kadın,35-44,Premium
+10501,Kadın,55+,Sadık Müşteri
+10502,Erkek,35-44,Bireysel
+10503,Kadın,25-34,Bireysel
+10504,Kadın,35-44,Sadık Müşteri
+10505,Erkek,35-44,Sadık Müşteri
+10506,Kadın,18-24,Bireysel
+10507,Erkek,35-44,Premium
+10508,Kadın,25-34,Sadık Müşteri
+10509,Kadın,35-44,Premium
+10510,Kadın,35-44,Sadık Müşteri
+10511,Kadın,25-34,Sadık Müşteri
+10512,Kadın,18-24,Bireysel
+10513,Erkek,45-54,Premium
+10514,Erkek,35-44,Sadık Müşteri
+10515,Kadın,18-24,Bireysel
+10516,Erkek,55+,Bireysel
+10517,Erkek,18-24,Bireysel
+10518,Erkek,35-44,Sadık Müşteri
+10519,Kadın,55+,Premium
+10520,Kadın,25-34,Bireysel
+10521,Kadın,25-34,Sadık Müşteri
+10522,Erkek,25-34,Bireysel
+10523,Erkek,25-34,Premium
+10524,Kadın,18-24,Sadık Müşteri
+10525,Kadın,35-44,Sadık Müşteri
+10526,Erkek,18-24,Bireysel
+10527,Erkek,35-44,Bireysel
+10528,Erkek,55+,Bireysel
+10529,Erkek,45-54,Bireysel
+10530,Kadın,35-44,Sadık Müşteri
+10531,Erkek,25-34,Sadık Müşteri
+10532,Erkek,35-44,Premium
+10533,Kadın,35-44,Premium
+10534,Erkek,25-34,Bireysel
+10535,Erkek,25-34,Sadık Müşteri
+10536,Kadın,55+,Premium
+10537,Erkek,35-44,Sadık Müşteri
+10538,Erkek,25-34,Bireysel
+10539,Erkek,25-34,Bireysel
+10540,Kadın,25-34,Bireysel
+10541,Kadın,45-54,Premium
+10542,Erkek,45-54,Sadık Müşteri
+10543,Kadın,45-54,Bireysel
+10544,Erkek,18-24,Sadık Müşteri
+10545,Erkek,25-34,Sadık Müşteri
+10546,Kadın,35-44,Bireysel
+10547,Kadın,18-24,Bireysel
+10548,Kadın,25-34,Sadık Müşteri
+10549,Kadın,45-54,Bireysel
+10550,Erkek,25-34,Sadık Müşteri
+10551,Erkek,35-44,Bireysel
+10552,Erkek,25-34,Sadık Müşteri
+10553,Erkek,18-24,Bireysel
+10554,Kadın,25-34,Bireysel
+10555,Erkek,55+,Sadık Müşteri
+10556,Erkek,45-54,Bireysel
+10557,Erkek,55+,Bireysel
+10558,Erkek,35-44,Bireysel
+10559,Kadın,18-24,Sadık Müşteri
+10560,Erkek,35-44,Sadık Müşteri
+10561,Kadın,35-44,Sadık Müşteri
+10562,Kadın,45-54,Bireysel
+10563,Kadın,18-24,Bireysel
+10564,Erkek,35-44,Bireysel
+10565,Erkek,25-34,Bireysel
+10566,Erkek,25-34,Sadık Müşteri
+10567,Erkek,45-54,Bireysel
+10568,Erkek,35-44,Bireysel
+10569,Erkek,25-34,Premium
+10570,Kadın,25-34,Bireysel
+10571,Kadın,35-44,Bireysel
+10572,Kadın,45-54,Sadık Müşteri
+10573,Erkek,55+,Bireysel
+10574,Erkek,55+,Sadık Müşteri
+10575,Kadın,45-54,Sadık Müşteri
+10576,Kadın,25-34,Premium
+10577,Erkek,35-44,Bireysel
+10578,Kadın,35-44,Premium
+10579,Erkek,25-34,Bireysel
+10580,Erkek,45-54,Bireysel
+10581,Kadın,18-24,Bireysel
+10582,Kadın,55+,Premium
+10583,Erkek,35-44,Bireysel
+10584,Erkek,35-44,Bireysel
+10585,Erkek,35-44,Sadık Müşteri
+10586,Erkek,55+,Bireysel
+10587,Kadın,35-44,Bireysel
+10588,Kadın,35-44,Bireysel
+10589,Erkek,18-24,Bireysel
+10590,Erkek,35-44,Bireysel
+10591,Kadın,25-34,Bireysel
+10592,Erkek,45-54,Sadık Müşteri
+10593,Erkek,35-44,Bireysel
+10594,Kadın,35-44,Bireysel
+10595,Kadın,18-24,Premium
+10596,Erkek,18-24,Bireysel
+10597,Kadın,45-54,Sadık Müşteri
+10598,Kadın,18-24,Bireysel
+10599,Kadın,18-24,Bireysel
+10600,Erkek,18-24,Bireysel
+10601,Erkek,55+,Bireysel
+10602,Erkek,45-54,Bireysel
+10603,Kadın,25-34,Bireysel
+10604,Erkek,25-34,Bireysel
+10605,Erkek,25-34,Bireysel
+10606,Erkek,45-54,Bireysel
+10607,Erkek,35-44,Bireysel
+10608,Kadın,25-34,Bireysel
+10609,Erkek,25-34,Bireysel
+10610,Kadın,18-24,Sadık Müşteri
+10611,Erkek,35-44,Bireysel
+10612,Kadın,45-54,Sadık Müşteri
+10613,Kadın,25-34,Sadık Müşteri
+10614,Kadın,18-24,Bireysel
+10615,Erkek,18-24,Sadık Müşteri
+10616,Kadın,55+,Premium
+10617,Erkek,25-34,Bireysel
+10618,Kadın,45-54,Bireysel
+10619,Kadın,35-44,Sadık Müşteri
+10620,Erkek,25-34,Sadık Müşteri
+10621,Kadın,25-34,Bireysel
+10622,Kadın,25-34,Bireysel
+10623,Erkek,35-44,Bireysel
+10624,Kadın,45-54,Bireysel
+10625,Kadın,35-44,Sadık Müşteri
+10626,Kadın,35-44,Bireysel
+10627,Erkek,18-24,Bireysel
+10628,Erkek,55+,Sadık Müşteri
+10629,Erkek,45-54,Bireysel
+10630,Erkek,25-34,Bireysel
+10631,Kadın,55+,Sadık Müşteri
+10632,Kadın,35-44,Premium
+10633,Erkek,35-44,Bireysel
+10634,Kadın,45-54,Bireysel
+10635,Kadın,45-54,Bireysel
+10636,Kadın,35-44,Bireysel
+10637,Kadın,25-34,Bireysel
+10638,Erkek,25-34,Bireysel
+10639,Kadın,55+,Bireysel
+10640,Kadın,25-34,Bireysel
+10641,Kadın,25-34,Bireysel
+10642,Erkek,35-44,Bireysel
+10643,Kadın,35-44,Bireysel
+10644,Kadın,35-44,Bireysel
+10645,Erkek,55+,Bireysel
+10646,Erkek,25-34,Premium
+10647,Kadın,25-34,Sadık Müşteri
+10648,Kadın,25-34,Sadık Müşteri
+10649,Kadın,55+,Sadık Müşteri
+10650,Kadın,35-44,Bireysel
+10651,Kadın,25-34,Bireysel
+10652,Kadın,45-54,Bireysel
+10653,Kadın,45-54,Sadık Müşteri
+10654,Kadın,45-54,Sadık Müşteri
+10655,Erkek,55+,Bireysel
+10656,Erkek,25-34,Bireysel
+10657,Erkek,45-54,Bireysel
+10658,Kadın,35-44,Bireysel
+10659,Kadın,45-54,Sadık Müşteri
+10660,Erkek,45-54,Bireysel
+10661,Kadın,45-54,Bireysel
+10662,Kadın,35-44,Premium
+10663,Erkek,25-34,Sadık Müşteri
+10664,Erkek,35-44,Bireysel
+10665,Erkek,55+,Bireysel
+10666,Kadın,55+,Bireysel
+10667,Kadın,18-24,Bireysel
+10668,Erkek,25-34,Bireysel
+10669,Kadın,25-34,Bireysel
+10670,Erkek,45-54,Bireysel
+10671,Erkek,45-54,Bireysel
+10672,Erkek,25-34,Premium
+10673,Kadın,35-44,Bireysel
+10674,Kadın,45-54,Bireysel
+10675,Erkek,45-54,Bireysel
+10676,Erkek,35-44,Premium
+10677,Erkek,35-44,Bireysel
+10678,Kadın,35-44,Bireysel
+10679,Kadın,25-34,Premium
+10680,Erkek,35-44,Sadık Müşteri
+10681,Erkek,35-44,Sadık Müşteri
+10682,Erkek,45-54,Bireysel
+10683,Kadın,35-44,Bireysel
+10684,Erkek,45-54,Sadık Müşteri
+10685,Erkek,25-34,Premium
+10686,Erkek,35-44,Bireysel
+10687,Kadın,18-24,Bireysel
+10688,Kadın,25-34,Bireysel
+10689,Erkek,45-54,Sadık Müşteri
+10690,Kadın,55+,Bireysel
+10691,Kadın,18-24,Bireysel
+10692,Erkek,25-34,Bireysel
+10693,Kadın,45-54,Bireysel
+10694,Erkek,25-34,Bireysel
+10695,Kadın,35-44,Bireysel
+10696,Erkek,45-54,Sadık Müşteri
+10697,Erkek,35-44,Bireysel
+10698,Kadın,25-34,Sadık Müşteri
+10699,Kadın,25-34,Bireysel
+10700,Kadın,45-54,Bireysel
+10701,Kadın,35-44,Bireysel
+10702,Erkek,18-24,Bireysel
+10703,Erkek,45-54,Bireysel
+10704,Kadın,18-24,Bireysel
+10705,Kadın,45-54,Bireysel
+10706,Kadın,25-34,Premium
+10707,Erkek,55+,Bireysel
+10708,Kadın,25-34,Sadık Müşteri
+10709,Erkek,25-34,Bireysel
+10710,Erkek,25-34,Sadık Müşteri
+10711,Erkek,25-34,Sadık Müşteri
+10712,Kadın,45-54,Sadık Müşteri
+10713,Erkek,55+,Bireysel
+10714,Kadın,25-34,Bireysel
+10715,Kadın,35-44,Bireysel
+10716,Erkek,45-54,Premium
+10717,Erkek,55+,Sadık Müşteri
+10718,Kadın,35-44,Premium
+10719,Kadın,25-34,Bireysel
+10720,Kadın,25-34,Sadık Müşteri
+10721,Kadın,35-44,Premium
+10722,Kadın,18-24,Bireysel
+10723,Kadın,35-44,Bireysel
+10724,Kadın,25-34,Sadık Müşteri
+10725,Erkek,45-54,Bireysel
+10726,Erkek,18-24,Sadık Müşteri
+10727,Erkek,35-44,Bireysel
+10728,Kadın,35-44,Sadık Müşteri
+10729,Erkek,35-44,Bireysel
+10730,Erkek,18-24,Bireysel
+10731,Erkek,35-44,Bireysel
+10732,Erkek,35-44,Sadık Müşteri
+10733,Erkek,35-44,Sadık Müşteri
+10734,Erkek,35-44,Bireysel
+10735,Kadın,35-44,Bireysel
+10736,Erkek,45-54,Sadık Müşteri
+10737,Erkek,25-34,Bireysel
+10738,Erkek,45-54,Sadık Müşteri
+10739,Erkek,35-44,Bireysel
+10740,Kadın,18-24,Bireysel
+10741,Kadın,18-24,Bireysel
+10742,Erkek,25-34,Bireysel
+10743,Erkek,45-54,Sadık Müşteri
+10744,Erkek,45-54,Bireysel
+10745,Kadın,45-54,Bireysel
+10746,Kadın,35-44,Premium
+10747,Erkek,35-44,Bireysel
+10748,Erkek,25-34,Bireysel
+10749,Erkek,25-34,Premium
+10750,Kadın,35-44,Sadık Müşteri
+10751,Erkek,18-24,Bireysel
+10752,Kadın,25-34,Premium
+10753,Erkek,35-44,Sadık Müşteri
+10754,Kadın,45-54,Bireysel
+10755,Kadın,55+,Bireysel
+10756,Erkek,55+,Sadık Müşteri
+10757,Erkek,35-44,Sadık Müşteri
+10758,Kadın,25-34,Bireysel
+10759,Erkek,35-44,Premium
+10760,Kadın,45-54,Sadık Müşteri
+10761,Kadın,18-24,Bireysel
+10762,Kadın,25-34,Bireysel
+10763,Kadın,45-54,Bireysel
+10764,Kadın,25-34,Sadık Müşteri
+10765,Kadın,35-44,Bireysel
+10766,Kadın,35-44,Bireysel
+10767,Erkek,25-34,Sadık Müşteri
+10768,Kadın,25-34,Sadık Müşteri
+10769,Erkek,25-34,Bireysel
+10770,Kadın,18-24,Sadık Müşteri
+10771,Erkek,18-24,Bireysel
+10772,Kadın,45-54,Sadık Müşteri
+10773,Kadın,25-34,Bireysel
+10774,Kadın,35-44,Bireysel
+10775,Kadın,25-34,Sadık Müşteri
+10776,Kadın,55+,Bireysel
+10777,Erkek,25-34,Bireysel
+10778,Erkek,25-34,Sadık Müşteri
+10779,Erkek,45-54,Sadık Müşteri
+10780,Erkek,45-54,Sadık Müşteri
+10781,Kadın,25-34,Sadık Müşteri
+10782,Kadın,45-54,Bireysel
+10783,Kadın,35-44,Bireysel
+10784,Kadın,35-44,Bireysel
+10785,Kadın,25-34,Bireysel
+10786,Erkek,18-24,Premium
+10787,Kadın,45-54,Sadık Müşteri
+10788,Kadın,35-44,Bireysel
+10789,Erkek,35-44,Bireysel
+10790,Erkek,45-54,Premium
+10791,Kadın,45-54,Bireysel
+10792,Erkek,25-34,Sadık Müşteri
+10793,Erkek,35-44,Bireysel
+10794,Kadın,25-34,Sadık Müşteri
+10795,Kadın,45-54,Bireysel
+10796,Kadın,35-44,Sadık Müşteri
+10797,Erkek,55+,Premium
+10798,Erkek,18-24,Bireysel
+10799,Kadın,18-24,Sadık Müşteri
+10800,Kadın,25-34,Premium
+10801,Erkek,25-34,Sadık Müşteri
+10802,Kadın,25-34,Bireysel
+10803,Kadın,55+,Bireysel
+10804,Erkek,25-34,Sadık Müşteri
+10805,Erkek,25-34,Bireysel
+10806,Erkek,45-54,Sadık Müşteri
+10807,Erkek,35-44,Premium
+10808,Erkek,45-54,Premium
+10809,Kadın,18-24,Bireysel
+10810,Erkek,35-44,Bireysel
+10811,Kadın,18-24,Premium
+10812,Erkek,18-24,Sadık Müşteri
+10813,Kadın,55+,Bireysel
+10814,Erkek,25-34,Premium
+10815,Kadın,35-44,Sadık Müşteri
+10816,Kadın,25-34,Bireysel
+10817,Kadın,25-34,Sadık Müşteri
+10818,Kadın,55+,Bireysel
+10819,Erkek,18-24,Bireysel
+10820,Erkek,35-44,Bireysel
+10821,Kadın,55+,Sadık Müşteri
+10822,Kadın,35-44,Bireysel
+10823,Kadın,55+,Bireysel
+10824,Kadın,18-24,Bireysel
+10825,Kadın,25-34,Bireysel
+10826,Erkek,25-34,Premium
+10827,Kadın,45-54,Bireysel
+10828,Kadın,55+,Bireysel
+10829,Kadın,25-34,Sadık Müşteri
+10830,Kadın,35-44,Bireysel
+10831,Kadın,25-34,Bireysel
+10832,Erkek,35-44,Bireysel
+10833,Kadın,35-44,Bireysel
+10834,Kadın,55+,Bireysel
+10835,Kadın,35-44,Bireysel
+10836,Kadın,25-34,Bireysel
+10837,Kadın,18-24,Premium
+10838,Erkek,25-34,Bireysel
+10839,Erkek,25-34,Sadık Müşteri
+10840,Erkek,25-34,Sadık Müşteri
+10841,Kadın,45-54,Bireysel
+10842,Kadın,35-44,Sadık Müşteri
+10843,Erkek,35-44,Bireysel
+10844,Erkek,18-24,Premium
+10845,Erkek,45-54,Bireysel
+10846,Kadın,45-54,Bireysel
+10847,Kadın,18-24,Bireysel
+10848,Kadın,45-54,Premium
+10849,Erkek,35-44,Bireysel
+10850,Erkek,18-24,Sadık Müşteri
+10851,Erkek,35-44,Bireysel
+10852,Kadın,35-44,Sadık Müşteri
+10853,Erkek,25-34,Bireysel
+10854,Kadın,55+,Premium
+10855,Kadın,45-54,Bireysel
+10856,Kadın,35-44,Bireysel
+10857,Erkek,35-44,Bireysel
+10858,Kadın,25-34,Bireysel
+10859,Kadın,35-44,Bireysel
+10860,Erkek,35-44,Bireysel
+10861,Kadın,18-24,Sadık Müşteri
+10862,Kadın,35-44,Bireysel
+10863,Kadın,45-54,Bireysel
+10864,Kadın,35-44,Bireysel
+10865,Erkek,18-24,Bireysel
+10866,Kadın,45-54,Bireysel
+10867,Kadın,25-34,Bireysel
+10868,Erkek,25-34,Bireysel
+10869,Erkek,25-34,Sadık Müşteri
+10870,Erkek,25-34,Premium
+10871,Kadın,45-54,Bireysel
+10872,Kadın,35-44,Bireysel
+10873,Erkek,25-34,Sadık Müşteri
+10874,Erkek,45-54,Bireysel
+10875,Erkek,45-54,Bireysel
+10876,Erkek,45-54,Bireysel
+10877,Erkek,25-34,Sadık Müşteri
+10878,Kadın,35-44,Sadık Müşteri
+10879,Kadın,55+,Bireysel
+10880,Erkek,45-54,Bireysel
+10881,Kadın,18-24,Bireysel
+10882,Kadın,18-24,Sadık Müşteri
+10883,Erkek,35-44,Bireysel
+10884,Erkek,55+,Bireysel
+10885,Kadın,35-44,Sadık Müşteri
+10886,Kadın,35-44,Bireysel
+10887,Kadın,18-24,Sadık Müşteri
+10888,Erkek,35-44,Bireysel
+10889,Erkek,45-54,Bireysel
+10890,Kadın,25-34,Bireysel
+10891,Kadın,45-54,Sadık Müşteri
+10892,Erkek,55+,Sadık Müşteri
+10893,Kadın,25-34,Sadık Müşteri
+10894,Erkek,35-44,Bireysel
+10895,Erkek,25-34,Sadık Müşteri
+10896,Kadın,45-54,Bireysel
+10897,Erkek,35-44,Bireysel
+10898,Kadın,35-44,Premium
+10899,Kadın,45-54,Bireysel
+10900,Erkek,25-34,Bireysel
+10901,Kadın,55+,Bireysel
+10902,Erkek,35-44,Bireysel
+10903,Erkek,25-34,Bireysel
+10904,Kadın,35-44,Sadık Müşteri
+10905,Kadın,45-54,Bireysel
+10906,Kadın,25-34,Premium
+10907,Kadın,45-54,Sadık Müşteri
+10908,Kadın,55+,Bireysel
+10909,Kadın,25-34,Bireysel
+10910,Kadın,55+,Bireysel
+10911,Erkek,25-34,Sadık Müşteri
+10912,Erkek,25-34,Bireysel
+10913,Erkek,25-34,Sadık Müşteri
+10914,Kadın,55+,Bireysel
+10915,Kadın,35-44,Bireysel
+10916,Erkek,25-34,Bireysel
+10917,Kadın,35-44,Bireysel
+10918,Kadın,35-44,Premium
+10919,Erkek,18-24,Sadık Müşteri
+10920,Erkek,55+,Bireysel
+10921,Erkek,45-54,Sadık Müşteri
+10922,Kadın,35-44,Bireysel
+10923,Erkek,55+,Premium
+10924,Erkek,25-34,Sadık Müşteri
+10925,Erkek,55+,Bireysel
+10926,Erkek,35-44,Bireysel
+10927,Erkek,35-44,Bireysel
+10928,Kadın,25-34,Bireysel
+10929,Kadın,55+,Sadık Müşteri
+10930,Erkek,25-34,Bireysel
+10931,Erkek,25-34,Bireysel
+10932,Erkek,18-24,Sadık Müşteri
+10933,Kadın,35-44,Premium
+10934,Kadın,35-44,Bireysel
+10935,Erkek,45-54,Bireysel
+10936,Erkek,55+,Bireysel
+10937,Erkek,18-24,Bireysel
+10938,Erkek,45-54,Premium
+10939,Erkek,25-34,Bireysel
+10940,Erkek,45-54,Bireysel
+10941,Erkek,45-54,Bireysel
+10942,Erkek,35-44,Bireysel
+10943,Erkek,45-54,Sadık Müşteri
+10944,Kadın,25-34,Sadık Müşteri
+10945,Kadın,35-44,Bireysel
+10946,Erkek,45-54,Bireysel
+10947,Kadın,35-44,Bireysel
+10948,Kadın,25-34,Premium
+10949,Kadın,35-44,Sadık Müşteri
+10950,Kadın,45-54,Sadık Müşteri
+10951,Kadın,25-34,Sadık Müşteri
+10952,Kadın,25-34,Sadık Müşteri
+10953,Erkek,45-54,Bireysel
+10954,Kadın,45-54,Premium
+10955,Kadın,18-24,Bireysel
+10956,Kadın,25-34,Bireysel
+10957,Erkek,25-34,Bireysel
+10958,Kadın,25-34,Bireysel
+10959,Erkek,35-44,Bireysel
+10960,Erkek,45-54,Sadık Müşteri
+10961,Erkek,35-44,Bireysel
+10962,Kadın,35-44,Sadık Müşteri
+10963,Erkek,25-34,Bireysel
+10964,Kadın,45-54,Bireysel
+10965,Erkek,35-44,Bireysel
+10966,Erkek,55+,Bireysel
+10967,Kadın,35-44,Sadık Müşteri
+10968,Kadın,25-34,Bireysel
+10969,Kadın,35-44,Bireysel
+10970,Erkek,25-34,Bireysel
+10971,Kadın,35-44,Sadık Müşteri
+10972,Erkek,18-24,Premium
+10973,Kadın,25-34,Sadık Müşteri
+10974,Erkek,45-54,Bireysel
+10975,Erkek,25-34,Bireysel
+10976,Erkek,45-54,Bireysel
+10977,Erkek,25-34,Sadık Müşteri
+10978,Kadın,35-44,Bireysel
+10979,Kadın,35-44,Bireysel
+10980,Erkek,35-44,Sadık Müşteri
+10981,Kadın,25-34,Bireysel
+10982,Kadın,25-34,Sadık Müşteri
+10983,Kadın,18-24,Bireysel
+10984,Kadın,25-34,Bireysel
+10985,Kadın,35-44,Sadık Müşteri
+10986,Erkek,55+,Bireysel
+10987,Kadın,45-54,Sadık Müşteri
+10988,Erkek,45-54,Bireysel
+10989,Kadın,45-54,Bireysel
+10990,Erkek,35-44,Sadık Müşteri
+10991,Kadın,25-34,Sadık Müşteri
+10992,Erkek,55+,Sadık Müşteri
+10993,Erkek,35-44,Bireysel
+10994,Kadın,35-44,Sadık Müşteri
+10995,Erkek,18-24,Bireysel
+10996,Erkek,35-44,Bireysel
+10997,Erkek,35-44,Premium
+10998,Erkek,45-54,Bireysel
+10999,Kadın,35-44,Premium
+11000,Erkek,25-34,Bireysel
+11001,Kadın,55+,Bireysel
+11002,Kadın,18-24,Bireysel
+11003,Erkek,25-34,Sadık Müşteri
+11004,Kadın,18-24,Sadık Müşteri
+11005,Erkek,45-54,Sadık Müşteri
+11006,Erkek,55+,Sadık Müşteri
+11007,Erkek,25-34,Sadık Müşteri
+11008,Erkek,45-54,Sadık Müşteri
+11009,Kadın,25-34,Bireysel
+11010,Kadın,55+,Bireysel
+11011,Kadın,45-54,Bireysel
+11012,Kadın,45-54,Premium
+11013,Kadın,18-24,Premium
+11014,Kadın,55+,Bireysel
+11015,Erkek,45-54,Sadık Müşteri
+11016,Erkek,25-34,Premium
+11017,Kadın,45-54,Bireysel
+11018,Erkek,25-34,Bireysel
+11019,Kadın,45-54,Premium
+11020,Kadın,18-24,Bireysel
+11021,Erkek,45-54,Sadık Müşteri
+11022,Erkek,35-44,Bireysel
+11023,Erkek,18-24,Premium
+11024,Kadın,25-34,Premium
+11025,Erkek,18-24,Premium
+11026,Erkek,35-44,Bireysel
+11027,Erkek,25-34,Sadık Müşteri
+11028,Erkek,35-44,Sadık Müşteri
+11029,Erkek,25-34,Bireysel
+11030,Erkek,25-34,Sadık Müşteri
+11031,Erkek,45-54,Bireysel
+11032,Erkek,18-24,Sadık Müşteri
+11033,Erkek,55+,Bireysel
+11034,Kadın,45-54,Bireysel
+11035,Erkek,35-44,Bireysel
+11036,Kadın,35-44,Sadık Müşteri
+11037,Kadın,55+,Bireysel
+11038,Erkek,25-34,Sadık Müşteri
+11039,Erkek,18-24,Bireysel
+11040,Erkek,25-34,Bireysel
+11041,Kadın,45-54,Bireysel
+11042,Erkek,18-24,Sadık Müşteri
+11043,Kadın,35-44,Bireysel
+11044,Erkek,55+,Sadık Müşteri
+11045,Erkek,45-54,Premium
+11046,Erkek,35-44,Sadık Müşteri
+11047,Erkek,18-24,Bireysel
+11048,Erkek,45-54,Bireysel
+11049,Erkek,35-44,Sadık Müşteri
+11050,Kadın,18-24,Bireysel
+11051,Kadın,18-24,Sadık Müşteri
+11052,Erkek,55+,Bireysel
+11053,Erkek,35-44,Premium
+11054,Kadın,45-54,Sadık Müşteri
+11055,Erkek,45-54,Premium
+11056,Kadın,35-44,Bireysel
+11057,Kadın,35-44,Sadık Müşteri
+11058,Erkek,35-44,Bireysel
+11059,Erkek,25-34,Bireysel
+11060,Erkek,35-44,Sadık Müşteri
+11061,Kadın,45-54,Sadık Müşteri
+11062,Kadın,35-44,Premium
+11063,Erkek,55+,Sadık Müşteri
+11064,Erkek,35-44,Bireysel
+11065,Kadın,35-44,Bireysel
+11066,Erkek,35-44,Sadık Müşteri
+11067,Kadın,35-44,Bireysel
+11068,Erkek,45-54,Bireysel
+11069,Erkek,25-34,Bireysel
+11070,Kadın,35-44,Bireysel
+11071,Kadın,18-24,Bireysel
+11072,Erkek,25-34,Bireysel
+11073,Erkek,35-44,Bireysel
+11074,Erkek,35-44,Bireysel
+11075,Erkek,55+,Premium
+11076,Erkek,35-44,Bireysel
+11077,Erkek,45-54,Bireysel
+11078,Erkek,35-44,Sadık Müşteri
+11079,Kadın,35-44,Bireysel
+11080,Kadın,18-24,Premium
+11081,Kadın,25-34,Sadık Müşteri
+11082,Erkek,25-34,Bireysel
+11083,Kadın,35-44,Bireysel
+11084,Erkek,18-24,Sadık Müşteri
+11085,Erkek,25-34,Premium
+11086,Erkek,25-34,Bireysel
+11087,Kadın,55+,Sadık Müşteri
+11088,Kadın,25-34,Bireysel
+11089,Kadın,35-44,Premium
+11090,Kadın,25-34,Bireysel
+11091,Kadın,35-44,Premium
+11092,Erkek,25-34,Sadık Müşteri
+11093,Erkek,25-34,Sadık Müşteri
+11094,Erkek,35-44,Bireysel
+11095,Erkek,18-24,Bireysel
+11096,Kadın,18-24,Bireysel
+11097,Erkek,25-34,Bireysel
+11098,Erkek,18-24,Bireysel
+11099,Kadın,18-24,Sadık Müşteri
+11100,Erkek,25-34,Bireysel
+11101,Kadın,45-54,Bireysel
+11102,Erkek,35-44,Premium
+11103,Erkek,35-44,Premium
+11104,Kadın,25-34,Premium
+11105,Erkek,55+,Premium
+11106,Erkek,25-34,Bireysel
+11107,Erkek,18-24,Bireysel
+11108,Kadın,35-44,Sadık Müşteri
+11109,Erkek,18-24,Sadık Müşteri
+11110,Kadın,25-34,Bireysel
+11111,Kadın,35-44,Sadık Müşteri
+11112,Kadın,45-54,Bireysel
+11113,Erkek,35-44,Bireysel
+11114,Erkek,45-54,Bireysel
+11115,Erkek,55+,Sadık Müşteri
+11116,Erkek,25-34,Sadık Müşteri
+11117,Kadın,25-34,Bireysel
+11118,Kadın,25-34,Sadık Müşteri
+11119,Kadın,25-34,Bireysel
+11120,Kadın,25-34,Bireysel
+11121,Kadın,55+,Premium
+11122,Kadın,45-54,Premium
+11123,Kadın,35-44,Sadık Müşteri
+11124,Kadın,25-34,Sadık Müşteri
+11125,Kadın,45-54,Sadık Müşteri
+11126,Kadın,55+,Bireysel
+11127,Erkek,45-54,Bireysel
+11128,Erkek,18-24,Bireysel
+11129,Erkek,35-44,Bireysel
+11130,Kadın,18-24,Bireysel
+11131,Kadın,25-34,Sadık Müşteri
+11132,Erkek,18-24,Bireysel
+11133,Kadın,35-44,Bireysel
+11134,Kadın,35-44,Bireysel
+11135,Kadın,18-24,Sadık Müşteri
+11136,Kadın,25-34,Bireysel
+11137,Kadın,35-44,Sadık Müşteri
+11138,Kadın,25-34,Bireysel
+11139,Erkek,25-34,Bireysel
+11140,Kadın,25-34,Sadık Müşteri
+11141,Kadın,45-54,Sadık Müşteri
+11142,Erkek,18-24,Bireysel
+11143,Kadın,18-24,Sadık Müşteri
+11144,Kadın,25-34,Bireysel
+11145,Erkek,55+,Bireysel
+11146,Kadın,35-44,Sadık Müşteri
+11147,Kadın,35-44,Sadık Müşteri
+11148,Kadın,25-34,Sadık Müşteri
+11149,Kadın,35-44,Sadık Müşteri
+11150,Erkek,18-24,Sadık Müşteri
+11151,Erkek,35-44,Sadık Müşteri
+11152,Kadın,55+,Sadık Müşteri
+11153,Erkek,35-44,Sadık Müşteri
+11154,Kadın,45-54,Sadık Müşteri
+11155,Kadın,45-54,Sadık Müşteri
+11156,Erkek,25-34,Sadık Müşteri
+11157,Kadın,55+,Bireysel
+11158,Kadın,18-24,Premium
+11159,Kadın,35-44,Sadık Müşteri
+11160,Kadın,25-34,Bireysel
+11161,Kadın,18-24,Sadık Müşteri
+11162,Erkek,25-34,Bireysel
+11163,Kadın,25-34,Bireysel
+11164,Kadın,35-44,Sadık Müşteri
+11165,Kadın,35-44,Bireysel
+11166,Erkek,18-24,Sadık Müşteri
+11167,Erkek,25-34,Sadık Müşteri
+11168,Erkek,35-44,Bireysel
+11169,Erkek,25-34,Bireysel
+11170,Erkek,45-54,Bireysel
+11171,Kadın,35-44,Sadık Müşteri
+11172,Erkek,45-54,Premium
+11173,Erkek,35-44,Sadık Müşteri
+11174,Erkek,25-34,Bireysel
+11175,Erkek,35-44,Sadık Müşteri
+11176,Kadın,25-34,Bireysel
+11177,Kadın,25-34,Sadık Müşteri
+11178,Kadın,45-54,Bireysel
+11179,Erkek,35-44,Sadık Müşteri
+11180,Kadın,45-54,Bireysel
+11181,Kadın,45-54,Premium
+11182,Erkek,45-54,Bireysel
+11183,Kadın,55+,Sadık Müşteri
+11184,Erkek,35-44,Premium
+11185,Kadın,25-34,Bireysel
+11186,Kadın,35-44,Premium
+11187,Kadın,25-34,Sadık Müşteri
+11188,Erkek,35-44,Bireysel
+11189,Kadın,45-54,Bireysel
+11190,Kadın,35-44,Sadık Müşteri
+11191,Erkek,25-34,Bireysel
+11192,Kadın,25-34,Sadık Müşteri
+11193,Erkek,35-44,Bireysel
+11194,Erkek,25-34,Sadık Müşteri
+11195,Kadın,55+,Bireysel
+11196,Erkek,25-34,Sadık Müşteri
+11197,Kadın,25-34,Premium
+11198,Erkek,18-24,Premium
+11199,Kadın,35-44,Sadık Müşteri
+11200,Erkek,35-44,Bireysel

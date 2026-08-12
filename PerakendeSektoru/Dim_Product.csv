@@ -1,0 +1,21 @@
+﻿Product_ID,Product_Name,Subcategory,Category,Brand,List_Price,Unit_Cost
+101,Smartphone X1,Akıllı Telefon,Teknoloji,NovaTech,18500,12500
+102,Smartphone A5,Akıllı Telefon,Teknoloji,NovaTech,12500,8500
+103,Laptop Pro 14,Laptop,Teknoloji,BytePro,32000,22500
+104,Laptop Air 13,Laptop,Teknoloji,BytePro,24500,17000
+105,Wireless Headset,Aksesuar,Teknoloji,SoundMax,2800,1450
+106,Smart Watch S2,Akıllı Saat,Teknoloji,NovaTech,6500,3800
+107,Robot Vacuum,Ev Elektroniği,Ev & Yaşam,HomeGo,14500,9300
+108,Air Fryer 5L,Mutfak,Ev & Yaşam,HomeGo,5200,3000
+109,Coffee Machine,Mutfak,Ev & Yaşam,BrewCo,8900,5100
+110,Blender Plus,Mutfak,Ev & Yaşam,HomeGo,3200,1800
+111,Running Shoes,Ayakkabı,Giyim,ActiveFit,4200,2350
+112,Denim Jacket,Mont & Ceket,Giyim,UrbanWear,3600,2050
+113,Basic T-Shirt,Üst Giyim,Giyim,UrbanWear,950,430
+114,Winter Coat,Mont & Ceket,Giyim,UrbanWear,5800,3350
+115,Skin Care Set,Cilt Bakımı,Kişisel Bakım,PureSkin,1750,720
+116,Hair Dryer,Saç Bakımı,Kişisel Bakım,PureSkin,2300,1050
+117,Perfume 50ml,Parfüm,Kişisel Bakım,Lumiere,3100,1200
+118,Office Backpack,Çanta,Kırtasiye,WorkLine,1800,850
+119,Notebook Set,Kırtasiye,Kırtasiye,Paperly,450,150
+120,Desk Lamp,Ofis,Kırtasiye,WorkLine,1250,570
